@@ -42,6 +42,7 @@
   <ItemGroup>
     <None Include="ACG\Comiket\yaca.md" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="ACG\Comiket\广州漫展吧.md" />
     <None Include="ACG\Comiket\萤火虫.md" />
   </ItemGroup>
   <ItemGroup>
