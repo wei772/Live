@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ACG\Anime\吹响吧！上低音号\去结婚吧.md" />
     <None Include="ACG\Comiket\yaca.md" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="ACG\Comiket\广州漫展吧.md" />
@@ -47,6 +48,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ACG\Comiket\2016 CICF EXPO.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ACG\Anime\吹响吧！上低音号\Image\2-1\Screenshot %28131%29.png" />
+    <Content Include="ACG\Anime\吹响吧！上低音号\Image\2-1\Screenshot %28132%29.png" />
+    <Content Include="ACG\Anime\吹响吧！上低音号\Image\2-1\Screenshot %28133%29.png" />
+    <Content Include="ACG\Anime\吹响吧！上低音号\Image\2-1\Screenshot %28134%29.png" />
+    <Content Include="ACG\Anime\吹响吧！上低音号\Image\2-1\Screenshot %28135%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
